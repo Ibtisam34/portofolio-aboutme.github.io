@@ -789,16 +789,18 @@ textarea {
     padding-top: 0;
   }
 }
+
 .logo:hover {
- background:#ff6b6b;
- transform: rotate(45deg);
+  background: #ff6b6b;
+  transform: rotate(45deg);
 }
- .head:hover h2 {
-  color:green;
+
+.head:hover h2 {
+  color: green;
   transition: 1s;
- }
+}
 
 .head:hover p {
-  color:#e05304;
+  color: #e05304;
   transition: 1s;
-} 
+}
